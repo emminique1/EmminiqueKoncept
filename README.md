@@ -8,6 +8,7 @@
 ---
 ## My Work
 ![image](https://github.com/emminique1/EmminiqueKoncept/blob/main/I%20Like%20the%20load.jpg?raw=true)
+![image](https://github.com/emminique1/EmminiqueKoncept/blob/main/June.jpg?raw=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
