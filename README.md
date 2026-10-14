@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emminique Koncept</h1>
-<h3 align="center">A passionate Graphic Designer and UI/UX Designer</h3>
+
+**`Graphics Designer and UI/UX Designer`** 
+
+## About Me
+- A passionate Graphic Designer and UI/UX Designer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
